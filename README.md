@@ -1,1 +1,1 @@
-sfd
+print ("Hello word")
